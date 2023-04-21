@@ -59,7 +59,7 @@ allure serve allure-results
 - The load testing strategy is written in standard form:
 ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617891-ecfdbe85-3c98-47ac-a0ee-0053a4b635b6.PNG) 
 
-#### **Load_testing Summary Report**
+- **Load_testing Summary Report**
 ![loadreport1](https://user-images.githubusercontent.com/59876702/233621454-005d8c2b-4f0a-47a3-945e-51864fb43208.PNG) </br>
 ![loadreport2](https://user-images.githubusercontent.com/59876702/233621585-a3ed9d52-780d-4921-912a-3466063dddae.PNG)  </br>
 ![loadreport3](https://user-images.githubusercontent.com/59876702/233621664-a3a92309-cea0-4f26-8ba0-a7618518ee67.PNG)  </br>
@@ -71,8 +71,10 @@ allure serve allure-results
 - **Server capacity:** Constant the time in 600 secs and increases the user apply load untill the error has occured.
 - For 600 secs, User: 333, 400, 500, 600 </br>
 - The stress testing strategy is written in standard form:
-[Stress_Testing_Strategy](https://docs.google.com/spreadsheets/d/1Cixk2IkSrknw2MrhxBpv211NjK1r7uj9kGT8kx21XUs/edit?usp=sharing) </br>
+ ![Stresstestingstrategy](https://user-images.githubusercontent.com/59876702/233622464-8afdadc5-4469-41a3-af0c-5e519d1a3180.PNG) </br>
+
 - Here is stress testing report: [Stress_testing_report](https://drive.google.com/file/d/11Qpm7Ont9FkwSn4iE4TmuZdK_ygOB5Y2/view?usp=sharing) </br>
+
 
 
 
