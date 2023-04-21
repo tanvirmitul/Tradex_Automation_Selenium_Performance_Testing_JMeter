@@ -9,9 +9,6 @@ The following key modules/pages are automated:
 - **2FA Security Method Unavailable?**
 - **Security Settings**
 
-
-- **Checkout**</br>
-
 Key test cases(total **75**) are written & automation performed (total **56**) for each module and test suites created including the positive and negative test cases.
 For failed test cases it will take a screenshot aswell at the point of failure.
 **The test runner codes can be extracted from this [link](https://github.com/tanvirmitul/Tradex_Automation_Selenium_Performance_Testing_JMeter/tree/main/src/test/java/testrunner).</br>
