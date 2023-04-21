@@ -58,7 +58,6 @@ allure serve allure-results
 - For 600, 900s and 1200s load, add Jmeter UI screenshot </br>
 - The load testing strategy is written in standard form:
 | ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617891-ecfdbe85-3c98-47ac-a0ee-0053a4b635b6.PNG) |
-|              _Actual TPS_              |
 
 #### **Load_testing Summary Report**
 
