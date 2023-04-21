@@ -60,14 +60,10 @@ allure serve allure-results
 
 ![Allure5](https://user-images.githubusercontent.com/59876702/233625281-b5f1c0b5-b005-4710-b6ac-1a2ce14c957e.PNG)  </br>
 
-![Allure6](https://user-images.githubusercontent.com/59876702/233625510-426e39e9-6a1e-420b-95d9-202fa7e6c403.PNG)  </br>
-
 ![Allure7](https://user-images.githubusercontent.com/59876702/233625554-296e7fcb-2bb5-47f7-97e0-c5359bc1522e.PNG)  </br>
 
 
-
-**Here is the ov![Allure6](https://user-images.githubusercontent.com/59876702/233625461-feabfd18-300d-4825-ae5f-776d813c1cbd.PNG)
-erall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
+**Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
 
 ## Performance testing
 ## **Load testing**
