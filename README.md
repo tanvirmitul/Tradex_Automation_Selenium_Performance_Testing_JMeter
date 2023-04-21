@@ -57,7 +57,9 @@ allure serve allure-results
 - **Actual load:** what TPS? Breakdown the expected TPS in spread sheet and find out the actual TPS.
 - For 600, 900s and 1200s load, add Jmeter UI screenshot </br>
 - The load testing strategy is written in standard form:
-[Load_Testing_Strategy](https://docs.google.com/spreadsheets/d/16JDx9z-FgROeiPNQ_qn99HGg8P8EmGqq4eknOJQk0Rw/edit?usp=share_link) </br>
+| ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617180-889fd25b-2d58-47b3-bfd4-b7eff668ef08.PNG) |
+| :------------------------------------: |
+|              _Actual TPS_              |
 - Here is load test report: [Load_test_report](https://docs.google.com/document/d/15kMCTkWHIP83fkNdq_rv3Pj6ySvJ6LJzDnXEh7dprIc/edit?usp=sharing) </br>
 
 ## **Stress testing**
