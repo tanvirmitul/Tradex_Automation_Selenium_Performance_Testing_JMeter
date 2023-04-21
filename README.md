@@ -16,11 +16,11 @@ Key test cases(total **75**) are written & automation performed (total **56**) f
 For failed test cases it will take a screenshot aswell at the point of failure.
 </br>The test runner codes can be extracted from this [link](https://github.com/tanvirmitul/Tradex_Automation_Selenium_Performance_Testing_JMeter/tree/main/src/test/java/testrunner).</br>
 **The test cases are written following standard test case format in this excel file:**
-[Test_cases.xlsx](https://docs.google.com/spreadsheets/d/1mXh8u5QwzKij1wrGjaf6hGOwgcsra5Zl6mkPvbuaRsY/edit?usp=sharing) </br>
+[Test_cases](https://docs.google.com/spreadsheets/d/1mXh8u5QwzKij1wrGjaf6hGOwgcsra5Zl6mkPvbuaRsY/edit?usp=sharing) </br>
 **The checklist are written following standard format in this google docs file:**
-[Checklist.docs](https://docs.google.com/document/d/1TMj1EE-dclCrhCLYSMyCZhTb9SRqPVjPjSLwvTk6qI0/edit?usp=sharing) </br>
+[Checklist](https://drive.google.com/file/d/1EfPJvi9S8yPvjQOLY1LoOV2oVSeFKVEZ/view?usp=sharing) </br>
 **The documented test plan is written following standard format in this google docs file:**
-[Checklist.docs](https://docs.google.com/document/d/1XqX2epgf_5FMyU5eQCP6ymqzeT9p2wglmVY-tbOoTJo/edit?usp=sharing) </br>
+[Testplan](https://drive.google.com/file/d/15NUeBli3kFdyMXcrnEwzHOivbiq53Y2r/view?usp=sharing) </br>
 
 ### Technology: </br>
 - Tool: Selenium Webdriver
@@ -51,7 +51,7 @@ allure serve allure-results
 
 **Below is my allure overview report**:
 
-[Test_report.docs](https://docs.google.com/document/d/1JS1a4TW5QBPYS2GTUR7Lymte0UVEOgfWRvSL-tgNyaY/edit?usp=sharing) </br>
+[Test_report](https://drive.google.com/file/d/1OSDWwJMzDtZUMTebgL_trGctwWzHoy8h/view?usp=sharing) </br>
 
 **Here are the suites of this project**:
 
