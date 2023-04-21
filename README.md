@@ -66,7 +66,7 @@ allure serve allure-results
 ## **Stress testing**
 
 - Find out that maximum load server can handle.
-- **Server capacity:** constant the time and increases the user apply load untill the error has occured.
+- **Server capacity:** Constant the time in 600 secs and increases the user apply load untill the error has occured.
 - For 600 secs, User: 333, 400, 500, 600
 **The stress testing strategy is written in standard form:**
 [Stress_Testing_Strategy](https://docs.google.com/spreadsheets/d/1Cixk2IkSrknw2MrhxBpv211NjK1r7uj9kGT8kx21XUs/edit?usp=sharing) </br>
