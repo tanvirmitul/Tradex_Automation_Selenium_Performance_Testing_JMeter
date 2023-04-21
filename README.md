@@ -46,9 +46,28 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
  ```
 
-**Here is my allure overview report:** [Test_report](https://drive.google.com/file/d/1OSDWwJMzDtZUMTebgL_trGctwWzHoy8h/view?usp=sharing) </br>
+**Here is my allure overview report docs file:** [Test_report](https://drive.google.com/file/d/1OSDWwJMzDtZUMTebgL_trGctwWzHoy8h/view?usp=sharing) </br>
+**Below is my overall report:**
+![testreportform](https://user-images.githubusercontent.com/59876702/233624074-17f9faf6-8b83-4765-ba88-03370a749cc7.PNG) </br>
 
-**Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
+![Allure1](https://user-images.githubusercontent.com/59876702/233625095-f2a2d7a9-6031-47f7-8125-08e344f755d3.PNG)  </br>
+
+![Allure2](https://user-images.githubusercontent.com/59876702/233625158-e5b9021d-22aa-4d39-b1a4-842ac5fb530a.PNG)  </br>
+
+![Allure3](https://user-images.githubusercontent.com/59876702/233625207-0a7d8609-d30f-4443-b591-4f5225b20940.PNG)  </br>
+
+![Allure4](https://user-images.githubusercontent.com/59876702/233625237-870643be-1dd3-409d-88bf-f0f2f709e476.PNG)  </br>
+
+![Allure5](https://user-images.githubusercontent.com/59876702/233625281-b5f1c0b5-b005-4710-b6ac-1a2ce14c957e.PNG)  </br>
+
+![Allure6](https://user-images.githubusercontent.com/59876702/233625510-426e39e9-6a1e-420b-95d9-202fa7e6c403.PNG)  </br>
+
+![Allure7](https://user-images.githubusercontent.com/59876702/233625554-296e7fcb-2bb5-47f7-97e0-c5359bc1522e.PNG)  </br>
+
+
+
+**Here is the ov![Allure6](https://user-images.githubusercontent.com/59876702/233625461-feabfd18-300d-4825-ae5f-776d813c1cbd.PNG)
+erall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
 
 ## Performance testing
 ## **Load testing**
@@ -77,3 +96,5 @@ allure serve allure-results
 ![stressreport1](https://user-images.githubusercontent.com/59876702/233622923-6b754cce-4d91-4d54-a241-167f4d8f5baf.PNG) </br>
 ![stressreport2](https://user-images.githubusercontent.com/59876702/233623010-d06a3b1a-4fea-4fbc-a73a-74e0adc83617.PNG)  </br>
 ![stressreport3](https://user-images.githubusercontent.com/59876702/233623098-788eb3a3-8ea5-4b39-8c79-72f590a37016.PNG)  </br>
+
+
