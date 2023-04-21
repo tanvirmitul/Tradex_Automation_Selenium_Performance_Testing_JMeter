@@ -63,11 +63,6 @@ allure serve allure-results
 
 #### **Load_testing Summary Report**
 
-- Users: 333, Time: 600 secs, Success: 100 %, Error: 0.00%
-
-| ![Test Case 1]() |
-| :----------------------------------: |
-|         _600 sec, 333 users_          |
 
 ## **Stress testing**
 
