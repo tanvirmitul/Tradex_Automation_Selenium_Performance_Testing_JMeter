@@ -57,10 +57,17 @@ allure serve allure-results
 - **Actual load:** what TPS? Breakdown the expected TPS in spread sheet and find out the actual TPS.
 - For 600, 900s and 1200s load, add Jmeter UI screenshot </br>
 - The load testing strategy is written in standard form:
-| ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617180-889fd25b-2d58-47b3-bfd4-b7eff668ef08.PNG) |
+| ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617891-ecfdbe85-3c98-47ac-a0ee-0053a4b635b6.PNG) |
 | :------------------------------------: |
 |              _Actual TPS_              |
-- Here is load test report: [Load_test_report](https://docs.google.com/document/d/15kMCTkWHIP83fkNdq_rv3Pj6ySvJ6LJzDnXEh7dprIc/edit?usp=sharing) </br>
+
+#### **Load_testing Summary Report**
+
+- Users: 333, Time: 600 secs, Success: 100 %, Error: 0.00%
+
+| ![Test Case 1]() |
+| :----------------------------------: |
+|         _600 sec, 333 users_          |
 
 ## **Stress testing**
 
@@ -70,3 +77,5 @@ allure serve allure-results
 - The stress testing strategy is written in standard form:
 [Stress_Testing_Strategy](https://docs.google.com/spreadsheets/d/1Cixk2IkSrknw2MrhxBpv211NjK1r7uj9kGT8kx21XUs/edit?usp=sharing) </br>
 - Here is stress testing report: [Stress_testing_report](https://drive.google.com/file/d/11Qpm7Ont9FkwSn4iE4TmuZdK_ygOB5Y2/view?usp=sharing) </br>
+
+
