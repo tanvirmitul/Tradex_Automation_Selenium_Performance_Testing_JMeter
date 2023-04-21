@@ -64,7 +64,8 @@ allure serve allure-results
 ![Allure7](https://user-images.githubusercontent.com/59876702/233625554-296e7fcb-2bb5-47f7-97e0-c5359bc1522e.PNG)  </br>
 
 
-## **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
+- **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing) </br>
+
 
 ## Performance testing
 ## **Load testing**
