@@ -49,13 +49,26 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
  ```
 
-**Below is my allure overview report**:
+**Here is my allure overview report**:[Test_report](https://drive.google.com/file/d/1OSDWwJMzDtZUMTebgL_trGctwWzHoy8h/view?usp=sharing) </br>
 
-[Test_report](https://drive.google.com/file/d/1OSDWwJMzDtZUMTebgL_trGctwWzHoy8h/view?usp=sharing) </br>
+**Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing)</br>
 
-**Here are the suites of this project**:
+## Performance testing
+## **Load testing**
 
-![suites](https://user-images.githubusercontent.com/55280106/185918539-c40ea3e9-dd3f-4e56-b223-adcf80fcbf25.png)
+- Find out the actual TPS for if 2000 user can give load within 1 hour **Expected load:** 2000 user, per hour.
+- **Actual load:** what TPS? Breakdown the expected TPS in spread sheet and find out the actual TPS.
+- For 600, 900s and 1200s load, add Jmeter UI screenshot
+**The load testing strategy is written in standard form:**
+[Load_Testing_Strategy] (https://docs.google.com/spreadsheets/d/16JDx9z-FgROeiPNQ_qn99HGg8P8EmGqq4eknOJQk0Rw/edit?usp=share_link) </br>
+**Here is load test report**:[Load_test_report](https://docs.google.com/document/d/15kMCTkWHIP83fkNdq_rv3Pj6ySvJ6LJzDnXEh7dprIc/edit?usp=sharing) </br>
 
-**Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1fx4bMzsdBhugkUjqPKAI1z9UCwFo8W_-/view?usp=sharing)</br>
-**You can watch the sanity testing of Checkout module from here:** [Video](https://drive.google.com/file/d/1nsk8-EKik-BnvjvH4mSwOwV7COD7dsas/view?usp=sharing)
+## **Stress testing**
+
+- Find out that maximum load server can handle.
+- **Server capacity:** constant the time and increases the user apply load untill the error has occured.
+- For 600 secs, User: 333, 400, 500, 600
+**The stress testing strategy is written in standard form:**
+[Stress_Testing_Strategy] (https://docs.google.com/spreadsheets/d/1Cixk2IkSrknw2MrhxBpv211NjK1r7uj9kGT8kx21XUs/edit?usp=sharing) </br>
+**Here is stress testing report**:[Stress_testing_report](https://drive.google.com/file/d/11Qpm7Ont9FkwSn4iE4TmuZdK_ygOB5Y2/view?usp=sharing) </br>
+
